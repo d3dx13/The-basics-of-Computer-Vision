@@ -290,7 +290,7 @@ hist_uniform_transformation = calc_hist(image_uniform_transformation)
 
 
 ```python
-# Отображу полученную после нелинейного преобразования интенсивностей гистограмму
+# Отображу полученную после равномерного преобразования интенсивностей гистограмму
 if use_graph:
     color = ('b','g','r')
     figure(figsize=(16, 12), dpi=80)
@@ -307,7 +307,7 @@ if use_graph:
 
 
 ```python
-# Изображение после нелинейного преобразования интенсивностей
+# Изображение после равномерного преобразования интенсивностей
 if use_graph:
     figure(figsize=(32, 16), dpi=80)
     plt.imshow(cv2.cvtColor(image_uniform_transformation, cv2.COLOR_BGR2RGB))
@@ -579,7 +579,7 @@ hist_hyperbolic_transformation = calc_hist(image_hyperbolic_transformation)
 
 
 ```python
-# Отображу полученную после преобразования по закону степени 2/3 гистограмму
+# Отображу полученную после гиперболического преобразования гистограмму
 if use_graph:
     color = ('b','g','r')
     figure(figsize=(16, 12), dpi=80)
@@ -596,7 +596,7 @@ if use_graph:
 
 
 ```python
-# Изображение после преобразования по закону степени 2/3
+# Изображение после гиперболического преобразования
 if use_graph:
     figure(figsize=(32, 16), dpi=80)
     plt.imshow(cv2.cvtColor(image_hyperbolic_transformation, cv2.COLOR_BGR2RGB))
@@ -716,7 +716,7 @@ hist_equalizeHist = calc_hist(image_equalizeHist)
 
 
 ```python
-# Отображу полученную после imadjust гистограмму
+# Отображу полученную после equalizeHist гистограмму
 if use_graph:
     color = ('b','g','r')
     figure(figsize=(16, 12), dpi=80)
@@ -733,7 +733,7 @@ if use_graph:
 
 
 ```python
-# Изображение после imadjust
+# Изображение после equalizeHist
 if use_graph:
     figure(figsize=(32, 16), dpi=80)
     plt.imshow(cv2.cvtColor(image_equalizeHist, cv2.COLOR_BGR2RGB))
