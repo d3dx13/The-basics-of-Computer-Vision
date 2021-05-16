@@ -1,9 +1,14 @@
 # The-basics-of-Computer-Vision
-Курс [Шаветова Сергея Васильевича](https://itmo.ru/ru/viewperson/484/shavetov_sergey_vasilevich.htm) по [Основам Технического Зрения](Laboratory_Assignments.pdf)
+Выполненный в Python курс [Шаветова Сергея Васильевича](https://itmo.ru/ru/viewperson/484/shavetov_sergey_vasilevich.htm) по [Основам Технического Зрения](Laboratory_Assignments.pdf)
+
+#### Немного красивых преобразований
+
+Исходное изображение
 
 
 
-### Содержание
+#### Содержание
+
 1. Работа - Гистограммы, профили и проекции изображений
 
     - [Листинг 1.1. Построение гистограмм изображения.](src/lab1/report/part1/part1.md#листинг-11-построение-гистограмм-изображения)
