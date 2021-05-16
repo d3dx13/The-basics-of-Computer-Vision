@@ -5,6 +5,14 @@
 
 Исходное изображение
 
+![jpg](src/cool/data/original/photo-1541055575455-df3a497caa48.jpg)
+
+Преобразованное изображение
+
+![jpg](src/cool/data/original/photo-1541055575455-df3a497caa48.jpg)
+
+[Код](src/cool/main.py)
+
 
 
 #### Содержание
