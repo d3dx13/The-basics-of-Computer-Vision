@@ -4,7 +4,7 @@
 
 
 ### Содержание
-1. [Introduction](#introduction)
+1. [Построение гистограмм изображения; Преобразование гистограмм](src/lab1/report/part1/part1.md)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
