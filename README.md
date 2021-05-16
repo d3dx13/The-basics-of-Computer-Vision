@@ -7,13 +7,15 @@
 
 Исходное изображение
 
-![jpg](src/cool/data/original/photo-1541055575455-df3a497caa48.jpg)
+![jpg](src/cool/data/original/Solarsystemscope_texture_8k_earth_nightmap.jpg)
 
 Преобразованное изображение
 
-![jpg](src/cool/data/out/photo-1541055575455-df3a497caa48.jpg)
+![jpg](src/cool/data/out/Solarsystemscope_texture_8k_earth_nightmap.jpg)
 
-[Код](src/cool/main.py)
+Локальная энтропия изображения
+
+![jpg](src/cool/data/super/image_entropy.png)
 
 
 
