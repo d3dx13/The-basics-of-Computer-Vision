@@ -4,8 +4,22 @@
 
 
 ### Содержание
-1. [Построение гистограмм изображения; Преобразование гистограмм](src/lab1/report/part1/part1.md)
-2. [Some paragraph](#paragraph1)
+1. Работа 1 - Гистограммы изображений
+    - [Листинг 1.1. Построение гистограмм изображения.](src/lab1/report/part1/part1.md#листинг-11-построение-гистограмм-изображения)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - 
+2. 
+3. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+4. [Another paragraph](#paragraph2)
 
